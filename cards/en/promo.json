@@ -1,6 +1,6 @@
 [
   {
-    "id": "pa_001",
+    "id": "pa-001",
     "name": "Potion",
     "element": null,
     "type": "Trainer",
@@ -8,10 +8,14 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_002",
+    "id": "pa-002",
     "name": "X Speed",
     "element": null,
     "type": "Trainer",
@@ -19,10 +23,14 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_003",
+    "id": "pa-003",
     "name": "Hand Scope",
     "element": null,
     "type": "Trainer",
@@ -30,10 +38,14 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_004",
+    "id": "pa-004",
     "name": "Pokedex",
     "element": null,
     "type": "Trainer",
@@ -41,10 +53,14 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_005",
+    "id": "pa-005",
     "name": "Poke Ball",
     "element": null,
     "type": "Trainer",
@@ -52,10 +68,14 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_006",
+    "id": "pa-006",
     "name": "Red Card",
     "element": null,
     "type": "Trainer",
@@ -63,10 +83,14 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_007",
+    "id": "pa-007",
     "name": "Professor's Research",
     "element": null,
     "type": "Trainer",
@@ -74,10 +98,29 @@
     "health": null,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
   },
   {
-    "id": "pa_008",
+    "id": "pa-008",
+    "name": "Pokedex",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": []
+  },
+  {
+    "id": "pa-008",
     "name": "Pokédex",
     "element": null,
     "type": "Trainer",
@@ -88,7 +131,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa_009",
+    "id": "pa-009",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -100,6 +143,7 @@
     "attacks": [
       {
         "name": "Gnaw",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -111,7 +155,7 @@
     "abilities": []
   },
   {
-    "id": "pa_010",
+    "id": "pa-010",
     "name": "Mewtwo",
     "element": "Psychic",
     "type": "Pokemon",
@@ -138,7 +182,7 @@
     "abilities": []
   },
   {
-    "id": "pa_011",
+    "id": "pa-011",
     "name": "Chansey",
     "element": "Colorless",
     "type": "Pokemon",
@@ -164,7 +208,7 @@
     "abilities": []
   },
   {
-    "id": "pa_012",
+    "id": "pa-012",
     "name": "Meowth",
     "element": "Colorless",
     "type": "Pokemon",
@@ -188,7 +232,7 @@
     "abilities": []
   },
   {
-    "id": "pa_013",
+    "id": "pa-013",
     "name": "Butterfree",
     "element": "Grass",
     "type": "Pokemon",
@@ -219,7 +263,7 @@
     ]
   },
   {
-    "id": "pa_014",
+    "id": "pa-014",
     "name": "Lapras ex",
     "element": "Water",
     "type": "Pokemon",
@@ -240,12 +284,12 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 3,
     "weakness": "Lightning",
     "abilities": []
   },
   {
-    "id": "pa_015",
+    "id": "pa-015",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -257,6 +301,7 @@
     "attacks": [
       {
         "name": "Gnaw",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -268,7 +313,7 @@
     "abilities": []
   },
   {
-    "id": "pa_016",
+    "id": "pa-016",
     "name": "Clefairy",
     "element": "Psychic",
     "type": "Pokemon",
@@ -280,6 +325,7 @@
     "attacks": [
       {
         "name": "Slap",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Psychic"
@@ -291,7 +337,7 @@
     "abilities": []
   },
   {
-    "id": "pa_017",
+    "id": "pa-017",
     "name": "Mankey",
     "element": "Fighting",
     "type": "Pokemon",
@@ -315,7 +361,7 @@
     "abilities": []
   },
   {
-    "id": "pa_018",
+    "id": "pa-018",
     "name": "Venusaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -342,7 +388,7 @@
     "abilities": []
   },
   {
-    "id": "pa_019",
+    "id": "pa-019",
     "name": "Greninja",
     "element": "Water",
     "type": "Pokemon",
@@ -354,6 +400,7 @@
     "attacks": [
       {
         "name": "Mist Slash",
+        "effect": null,
         "damage": "60",
         "cost": [
           "Water",
@@ -371,7 +418,7 @@
     ]
   },
   {
-    "id": "pa_020",
+    "id": "pa-020",
     "name": "Haunter",
     "element": "Psychic",
     "type": "Pokemon",
@@ -395,7 +442,7 @@
     "abilities": []
   },
   {
-    "id": "pa_021",
+    "id": "pa-021",
     "name": "Onix",
     "element": "Fighting",
     "type": "Pokemon",
@@ -407,6 +454,7 @@
     "attacks": [
       {
         "name": "Land Crush",
+        "effect": null,
         "damage": "70",
         "cost": [
           "Fighting",
@@ -420,7 +468,7 @@
     "abilities": []
   },
   {
-    "id": "pa_022",
+    "id": "pa-022",
     "name": "Jigglypuff",
     "element": "Colorless",
     "type": "Pokemon",
@@ -431,9 +479,9 @@
     "rarity": "Promo",
     "attacks": [
       {
-        "name": "Sleep",
+        "name": "Sing",
         "effect": "Your opponent's Active Pokémon is now Asleep.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -444,7 +492,7 @@
     "abilities": []
   },
   {
-    "id": "pa_023",
+    "id": "pa-023",
     "name": "Bulbasaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -456,6 +504,7 @@
     "attacks": [
       {
         "name": "Vine Whip",
+        "effect": null,
         "damage": "40",
         "cost": [
           "Grass",
@@ -468,7 +517,7 @@
     "abilities": []
   },
   {
-    "id": "pa_024",
+    "id": "pa-024",
     "name": "Magnemite",
     "element": "Lightning",
     "type": "Pokemon",
@@ -480,6 +529,7 @@
     "attacks": [
       {
         "name": "Lightning Ball",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -491,7 +541,7 @@
     "abilities": []
   },
   {
-    "id": "pa_025",
+    "id": "pa-025",
     "name": "Moltres ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -511,6 +561,7 @@
       },
       {
         "name": "Heat Blast",
+        "effect": null,
         "damage": "70",
         "cost": [
           "Fire",
@@ -524,7 +575,7 @@
     "abilities": []
   },
   {
-    "id": "pa_026",
+    "id": "pa-026",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -536,6 +587,7 @@
     "attacks": [
       {
         "name": "Gnaw",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -547,7 +599,7 @@
     "abilities": []
   },
   {
-    "id": "pa_027",
+    "id": "pa-027",
     "name": "Snivy",
     "element": "Grass",
     "type": "Pokemon",
@@ -559,6 +611,7 @@
     "attacks": [
       {
         "name": "Tackle",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Grass"
@@ -570,19 +623,19 @@
     "abilities": []
   },
   {
-    "id": "pa_028",
+    "id": "pa-028",
     "name": "Volcarona",
     "element": "Fire",
     "type": "Pokemon",
-    "subtype": "Basic",
+    "subtype": "Stage 1",
     "health": 120,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo",
     "attacks": [
       {
-        "name": "Tackle",
-        "effect": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to each of your opponent's Pokémon.",
+        "name": "Volcanic Ash",
+        "effect": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon.",
         "damage": "80",
         "cost": [
           "Fire",
@@ -596,11 +649,11 @@
     "abilities": []
   },
   {
-    "id": "pa_029",
+    "id": "pa-029",
     "name": "Blastoise",
     "element": "Water",
     "type": "Pokemon",
-    "subtype": "Basic",
+    "subtype": "Stage 2",
     "health": 150,
     "set": "Promo",
     "pack": "Promo A",
@@ -608,8 +661,8 @@
     "attacks": [
       {
         "name": "Hydro Pump",
-        "effect": "If this pokemon has at leas 2 extra Water Energy attached, this attack does 60 more damage.",
-        "damage": "80",
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
+        "damage": "80+",
         "cost": [
           "Water",
           "Water",
@@ -633,7 +686,7 @@
     "abilities": []
   },
   {
-    "id": "pa_030",
+    "id": "pa-030",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
@@ -657,7 +710,7 @@
     "abilities": []
   },
   {
-    "id": "pa_031",
+    "id": "pa-031",
     "name": "Cinccino",
     "element": "Colorless",
     "type": "Pokemon",
@@ -683,7 +736,7 @@
     "abilities": []
   },
   {
-    "id": "pa_032",
+    "id": "pa-032",
     "name": "Charmander",
     "element": "Fire",
     "type": "Pokemon",
@@ -707,7 +760,7 @@
     "abilities": []
   },
   {
-    "id": "pa_033",
+    "id": "pa-033",
     "name": "Squirtle",
     "element": "Water",
     "type": "Pokemon",
@@ -719,6 +772,7 @@
     "attacks": [
       {
         "name": "Water Gun",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Water"
@@ -730,7 +784,7 @@
     "abilities": []
   },
   {
-    "id": "pa_034",
+    "id": "pa-034",
     "name": "Piplup",
     "element": "Water",
     "type": "Pokemon",
@@ -754,7 +808,7 @@
     "abilities": []
   },
   {
-    "id": "pa_035",
+    "id": "pa-035",
     "name": "Turtwig",
     "element": "Grass",
     "type": "Pokemon",
@@ -766,6 +820,7 @@
     "attacks": [
       {
         "name": "Bite",
+        "effect": null,
         "damage": "30",
         "cost": [
           "Grass",
@@ -778,7 +833,7 @@
     "abilities": []
   },
   {
-    "id": "pa_036",
+    "id": "pa-036",
     "name": "Electivire",
     "element": "Lightning",
     "type": "Pokemon",
@@ -790,7 +845,7 @@
     "attacks": [
       {
         "name": "Exciting Voltage",
-        "effect": "If this Pokémon has at least 2 extra Lighting Energy attached, this attack does 80 more damage.",
+        "effect": "If this Pokémon has at least 2 extra Lightning Energy attached, this attack does 80 more damage.",
         "damage": "40+",
         "cost": [
           "Lightning",
@@ -814,7 +869,7 @@
     "abilities": []
   },
   {
-    "id": "pa_037",
+    "id": "pa-037",
     "name": "Cresselia ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -826,6 +881,7 @@
     "attacks": [
       {
         "name": "Psychic Flash",
+        "effect": null,
         "damage": "80",
         "cost": [
           "Psychic",
@@ -844,7 +900,7 @@
     ]
   },
   {
-    "id": "pa_038",
+    "id": "pa-038",
     "name": "Misdreavus",
     "element": "Psychic",
     "type": "Pokemon",
@@ -868,9 +924,9 @@
     "abilities": []
   },
   {
-    "id": "pa_039",
+    "id": "pa-039",
     "name": "Skarmory",
-    "element": "Steel",
+    "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
@@ -883,7 +939,7 @@
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
         "damage": "20+",
         "cost": [
-          "Steel"
+          "Metal"
         ]
       }
     ],
@@ -892,7 +948,7 @@
     "abilities": []
   },
   {
-    "id": "pa_040",
+    "id": "pa-040",
     "name": "Chimchar",
     "element": "Fire",
     "type": "Pokemon",
@@ -904,6 +960,7 @@
     "attacks": [
       {
         "name": "Scratch",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Fire"
@@ -915,7 +972,7 @@
     "abilities": []
   },
   {
-    "id": "pa_041",
+    "id": "pa-041",
     "name": "Togepi",
     "element": "Psychic",
     "type": "Pokemon",
@@ -927,6 +984,7 @@
     "attacks": [
       {
         "name": "Pound",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Psychic"
@@ -934,16 +992,16 @@
       }
     ],
     "retreatCost": 1,
-    "weakness": "Steel",
+    "weakness": "Metal",
     "abilities": []
   },
   {
-    "id": "pa_042",
+    "id": "pa-042",
     "name": "Darkrai ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
-    "health": 50,
+    "health": 140,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo",
@@ -951,7 +1009,7 @@
       {
         "name": "Dark Prism",
         "effect": null,
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Darkness",
           "Darkness",
@@ -964,12 +1022,12 @@
     "abilities": [
       {
         "name": "Nightmare Aura",
-        "effect": "Whenever you attach a [D] Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+        "effect": "Whenever you attach a Darkness Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
       }
     ]
   },
   {
-    "id": "pa_043",
+    "id": "pa-043",
     "name": "Cherrim (Overcast Form)",
     "element": "Grass",
     "type": "Pokemon",
@@ -994,7 +1052,7 @@
     "abilities": []
   },
   {
-    "id": "pa_044",
+    "id": "pa-044",
     "name": "Raichu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -1024,7 +1082,7 @@
     ]
   },
   {
-    "id": "pa_045",
+    "id": "pa-045",
     "name": "Nosepass",
     "element": "Fighting",
     "type": "Pokemon",
@@ -1049,7 +1107,7 @@
     "abilities": []
   },
   {
-    "id": "pa_046",
+    "id": "pa-046",
     "name": "Gible",
     "element": "Fighting",
     "type": "Pokemon",
@@ -1061,6 +1119,7 @@
     "attacks": [
       {
         "name": "Tackle",
+        "effect": null,
         "damage": "20",
         "cost": [
           "Fighting"
@@ -1072,9 +1131,9 @@
     "abilities": []
   },
   {
-    "id": "pa_047",
+    "id": "pa-047",
     "name": "Staraptor",
-    "element": "Fighting",
+    "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
@@ -1084,6 +1143,7 @@
     "attacks": [
       {
         "name": "Wing Attack",
+        "effect": null,
         "damage": "90",
         "cost": [
           "Colorless",
@@ -1102,7 +1162,7 @@
     ]
   },
   {
-    "id": "pa_048",
+    "id": "pa-048",
     "name": "Manaphy",
     "element": "Water",
     "type": "Pokemon",
@@ -1114,8 +1174,8 @@
     "attacks": [
       {
         "name": "Oceanic Gift",
-        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": 0,
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
+        "damage": "0",
         "cost": [
           "Water"
         ]
@@ -1126,7 +1186,7 @@
     "abilities": []
   },
   {
-    "id": "pa_049",
+    "id": "pa-049",
     "name": "Snorlax",
     "element": "Colorless",
     "type": "Pokemon",
@@ -1139,7 +1199,7 @@
       {
         "name": "Collapse",
         "effect": "This Pokémon is now Asleep.",
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Colorless",
           "Colorless",
@@ -1153,7 +1213,7 @@
     "abilities": []
   },
   {
-    "id": "pa_050",
+    "id": "pa-050",
     "name": "Mewtwo ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -1189,7 +1249,7 @@
     "abilities": []
   },
   {
-    "id": "pa_051",
+    "id": "pa-051",
     "name": "Cyclizar",
     "element": "Colorless",
     "type": "Pokemon",
@@ -1213,7 +1273,7 @@
     "abilities": []
   },
   {
-    "id": "pa_052",
+    "id": "pa-052",
     "name": "Sprigatito",
     "element": "Grass",
     "type": "Pokemon",
@@ -1225,7 +1285,7 @@
     "attacks": [
       {
         "name": "Cry for Help",
-        "effect": "Put 1 random [G] Pokémon from your deck into your hand.",
+        "effect": "Put 1 random Grass Pokémon from your deck into your hand.",
         "damage": "",
         "cost": [
           "Grass"
@@ -1237,7 +1297,7 @@
     "abilities": []
   },
   {
-    "id": "pa_053",
+    "id": "pa-053",
     "name": "Floatzel",
     "element": "Water",
     "type": "Pokemon",
@@ -1261,7 +1321,7 @@
     "abilities": []
   },
   {
-    "id": "pa_054",
+    "id": "pa-054",
     "name": "Pawmot",
     "element": "Lightning",
     "type": "Pokemon",
@@ -1273,6 +1333,7 @@
     "attacks": [
       {
         "name": "Electric Punch",
+        "effect": null,
         "damage": "70",
         "cost": [
           "Lightning",
@@ -1290,7 +1351,7 @@
     ]
   },
   {
-    "id": "pa_055",
+    "id": "pa-055",
     "name": "Machamp",
     "element": "Fighting",
     "type": "Pokemon",
@@ -1302,7 +1363,7 @@
     "attacks": [
       {
         "name": "Power Press",
-        "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage.",
+        "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage.",
         "damage": "70+",
         "cost": [
           "Fighting",
@@ -1315,7 +1376,7 @@
     "abilities": []
   },
   {
-    "id": "pa_056",
+    "id": "pa-056",
     "name": "Ekans",
     "element": "Darkness",
     "type": "Pokemon",
@@ -1339,7 +1400,7 @@
     "abilities": []
   },
   {
-    "id": "pa_057",
+    "id": "pa-057",
     "name": "Bidoof",
     "element": "Colorless",
     "type": "Pokemon",
@@ -1351,6 +1412,7 @@
     "attacks": [
       {
         "name": "Headbutt",
+        "effect": null,
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1363,7 +1425,7 @@
     "abilities": []
   },
   {
-    "id": "pa_058",
+    "id": "pa-058",
     "name": "Pachirisu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -1375,7 +1437,7 @@
     "attacks": [
       {
         "name": "Plasma",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon.",
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
         "damage": "10",
         "cost": [
           "Lightning"
@@ -1387,7 +1449,7 @@
     "abilities": []
   },
   {
-    "id": "pa_059",
+    "id": "pa-059",
     "name": "Riolu",
     "element": "Fighting",
     "type": "Pokemon",
@@ -1399,6 +1461,7 @@
     "attacks": [
       {
         "name": "Punch",
+        "effect": null,
         "damage": "40",
         "cost": [
           "Fighting",

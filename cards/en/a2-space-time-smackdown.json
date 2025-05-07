@@ -1,17 +1,18 @@
 [
   {
-    "id": "a2_001",
+    "id": "a2-001",
     "name": "Oddish",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Blot",
         "effect": "Heal 10 damage from this Pokémon.",
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Grass"
         ]
@@ -19,21 +20,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_002",
+    "id": "a2-002",
     "name": "Gloom",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Razor Leaf",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Grass"
         ]
@@ -41,21 +44,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Oddish",
+    "rarity": "Common"
   },
   {
-    "id": "a2_003",
+    "id": "a2-003",
     "name": "Bellossom",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Leaf Step",
-        "effect": null,
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Grass",
           "Grass"
@@ -64,21 +69,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Gloom",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_004",
+    "id": "a2-004",
     "name": "Tangela",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Vine Whip",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Grass",
           "Colorless"
@@ -87,21 +94,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_005",
+    "id": "a2-005",
     "name": "Tangrowth",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Mega Drain",
         "effect": "Heal 30 damage from this Pokémon.",
-        "damage": 90,
+        "damage": "90",
         "cost": [
           "Grass",
           "Grass",
@@ -112,21 +122,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Tangela",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_006",
+    "id": "a2-006",
     "name": "Yanma",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Flap",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -134,21 +146,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_007",
+    "id": "a2-007",
     "name": "Yanmega ex",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Air Slash",
         "effect": "Discard a random Energy from this Pokémon.",
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Colorless",
           "Colorless",
@@ -158,21 +173,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_008",
+    "id": "a2-008",
     "name": "Roselia",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Sting",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Grass"
         ]
@@ -180,21 +197,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_009",
+    "id": "a2-009",
     "name": "Roserade",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Poisonous Whip",
         "effect": "Your opponent's Active Pokémon is now Poisoned.",
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Grass",
           "Colorless"
@@ -203,21 +223,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Roselia",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_010",
+    "id": "a2-010",
     "name": "Turtwig",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Bite",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Grass",
           "Colorless"
@@ -226,21 +248,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_011",
+    "id": "a2-011",
     "name": "Grotle",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Razor Leaf",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Grass",
           "Grass",
@@ -250,21 +274,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Turtwig",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_012",
+    "id": "a2-012",
     "name": "Torterra",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Frenzy Plant",
         "effect": "During your next turn, this Pokémon can't use Frenzy Plant.",
-        "damage": 150,
+        "damage": "150",
         "cost": [
           "Grass",
           "Grass",
@@ -275,21 +302,23 @@
     ],
     "retreatCost": 4,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Grotle",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_013",
+    "id": "a2-013",
     "name": "Kricketot",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Bug Bite",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Grass"
         ]
@@ -297,21 +326,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_014",
+    "id": "a2-014",
     "name": "Kricketune",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Entrancing Melody",
         "effect": "Your opponent's Active Pokémon is now Confused.",
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Grass",
           "Colorless"
@@ -320,21 +352,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Kricketot",
+    "rarity": "Common"
   },
   {
-    "id": "a2_015",
+    "id": "a2-015",
     "name": "Burmy",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Tackle",
-        "effect": null,
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Colorless"
         ]
@@ -342,21 +376,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_016",
+    "id": "a2-016",
     "name": "Wormadam",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Leaf Cutter 60+",
+        "name": "Leaf Cutter",
         "effect": "Flip a coin. If heads, this attack does 30 more damage.",
-        "damage": 0,
+        "damage": "60+",
         "cost": [
           "Grass",
           "Colorless",
@@ -366,21 +403,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Common"
   },
   {
-    "id": "a2_017",
+    "id": "a2-017",
     "name": "Combee",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Call for Family",
-        "effect": "Put 1 random  from your deck onto your Bench.",
-        "damage": 0,
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench.",
+        "damage": "0",
         "cost": [
           "Colorless"
         ]
@@ -388,21 +428,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_018",
+    "id": "a2-018",
     "name": "Vespiquen",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Pierce",
-        "effect": null,
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Grass",
           "Grass"
@@ -411,21 +453,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Combee",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_019",
+    "id": "a2-019",
     "name": "Carnivine",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Flog 40+",
+        "name": "Flog",
         "effect": "Flip a coin. If heads, this attack does 50 more damage.",
-        "damage": 0,
+        "damage": "40+",
         "cost": [
           "Grass",
           "Grass",
@@ -435,21 +480,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_020",
+    "id": "a2-020",
     "name": "Leafeon",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Leafy Cyclone",
         "effect": "During your next turn, this Pokémon can't attack.",
-        "damage": 90,
+        "damage": "90",
         "cost": [
           "Grass",
           "Colorless"
@@ -458,21 +506,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_021",
+    "id": "a2-021",
     "name": "Mow Rotom",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Energy Cutoff",
         "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Grass",
           "Colorless"
@@ -481,21 +532,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_022",
+    "id": "a2-022",
     "name": "Shaymin",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Flop",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Grass",
           "Colorless"
@@ -509,21 +562,24 @@
         "name": "Fragrant Flower Garden",
         "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_023",
+    "id": "a2-023",
     "name": "Magmar",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take a [R] Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": 0,
+        "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "0",
         "cost": [
           "Fire"
         ]
@@ -531,21 +587,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_024",
+    "id": "a2-024",
     "name": "Magmortar",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Bursting Inferno",
         "effect": "Your opponent's Active Pokémon is now Burned.",
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Fire",
           "Fire",
@@ -556,21 +615,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Magmar",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_025",
+    "id": "a2-025",
     "name": "Slugma",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Flare",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Fire"
         ]
@@ -578,21 +639,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_026",
+    "id": "a2-026",
     "name": "Magcargo",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Searing Flame",
         "effect": "Your opponent's Active Pokémon is now Burned.",
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Fire",
           "Colorless"
@@ -601,21 +665,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Slugma",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_027",
+    "id": "a2-027",
     "name": "Chimchar",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Scratch",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Fire"
         ]
@@ -623,21 +689,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_028",
+    "id": "a2-028",
     "name": "Monferno",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Fiery Punch",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Fire"
         ]
@@ -645,21 +713,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Chimchar",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_029",
+    "id": "a2-029",
     "name": "Infernape ex",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Flare Blitz",
-        "effect": "Discard all [R] Energy from this Pokémon.",
-        "damage": 140,
+        "effect": "Discard all Fire Energy from this Pokémon.",
+        "damage": "140",
         "cost": [
           "Fire",
           "Fire"
@@ -668,21 +739,24 @@
     ],
     "retreatCost": 0,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_030",
+    "id": "a2-030",
     "name": "Heat Rotom",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Heat Breath 30+",
+        "name": "Heat Breath",
         "effect": "Flip a coin. If heads, this attack does 30 more damage.",
-        "damage": 0,
+        "damage": "30+",
         "cost": [
           "Fire",
           "Colorless"
@@ -691,21 +765,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_031",
+    "id": "a2-031",
     "name": "Swinub",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Water",
           "Colorless"
@@ -714,21 +790,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_032",
+    "id": "a2-032",
     "name": "Piloswine",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Hammer In",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Water",
           "Water",
@@ -741,23 +819,25 @@
     "abilities": [
       {
         "name": "Thick Fat",
-        "effect": "This Pokémon takes −20 damage from attacks from [R] or [W] Pokémon."
+        "effect": "This Pokémon takes −20 damage from attacks from Fire or Water Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Swinub",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_033",
+    "id": "a2-033",
     "name": "Mamoswine",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Frosty Flattening",
-        "effect": null,
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Water",
           "Water",
@@ -771,23 +851,25 @@
     "abilities": [
       {
         "name": "Thick Fat",
-        "effect": "This Pokémon takes −30 damage from attacks from [R] or [W] Pokémon."
+        "effect": "This Pokémon takes −30 damage from attacks from Fire or Water Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Piloswine",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_034",
+    "id": "a2-034",
     "name": "Regice",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Frost Smash",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Water",
           "Water"
@@ -801,21 +883,24 @@
         "name": "Crystal Body",
         "effect": "Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_035",
+    "id": "a2-035",
     "name": "Piplup",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Nap",
         "effect": "Heal 20 damage from this Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless"
         ]
@@ -823,21 +908,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_036",
+    "id": "a2-036",
     "name": "Prinplup",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Surf",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water",
           "Colorless"
@@ -846,21 +933,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Piplup",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_037",
+    "id": "a2-037",
     "name": "Empoleon",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Aqua Jet",
         "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Water",
           "Water",
@@ -870,21 +960,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Prinplup",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_038",
+    "id": "a2-038",
     "name": "Buizel",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Water"
         ]
@@ -892,21 +984,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_039",
+    "id": "a2-039",
     "name": "Floatzel",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Jet Screw 30+",
+        "name": "Jet Screw",
         "effect": "Flip a coin. If heads, this attack does 30 more damage.",
-        "damage": 0,
+        "damage": "30+",
         "cost": [
           "Water"
         ]
@@ -914,21 +1009,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Buizel",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_040",
+    "id": "a2-040",
     "name": "Shellos",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Mud-Slap",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water",
           "Colorless"
@@ -937,21 +1034,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_041",
+    "id": "a2-041",
     "name": "Gastrodon",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Muddy Water",
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Water",
           "Colorless",
@@ -961,21 +1061,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Shellos",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_042",
+    "id": "a2-042",
     "name": "Finneon",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Elegant Swim",
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Water"
         ]
@@ -983,21 +1086,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_043",
+    "id": "a2-043",
     "name": "Lumineon",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Waterfall",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Water"
         ]
@@ -1005,21 +1110,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Finneon",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_044",
+    "id": "a2-044",
     "name": "Snover",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Ice Shard 10+",
-        "effect": "If your opponent's Active Pokémon is a [F] Pokémon, this attack does 30 more damage.",
-        "damage": 0,
+        "name": "Ice Shard",
+        "effect": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 30 more damage.",
+        "damage": "10+",
         "cost": [
           "Water"
         ]
@@ -1027,21 +1135,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_045",
+    "id": "a2-045",
     "name": "Abomasnow",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Frost Breath",
-        "effect": null,
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Water",
           "Water",
@@ -1052,21 +1162,24 @@
     ],
     "retreatCost": 4,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Snover",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_046",
+    "id": "a2-046",
     "name": "Glaceon",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Ice Beam",
         "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Water",
           "Water"
@@ -1075,21 +1188,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_047",
+    "id": "a2-047",
     "name": "Wash Rotom",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Wave Splash",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water"
         ]
@@ -1097,21 +1212,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_048",
+    "id": "a2-048",
     "name": "Frost Rotom",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Blizzard",
         "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water",
           "Water"
@@ -1120,29 +1238,31 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_049",
+    "id": "a2-049",
     "name": "Palkia ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Slash",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water"
         ]
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
-        "damage": 150,
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "damage": "150",
         "cost": [
           "Water",
           "Water",
@@ -1153,21 +1273,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_050",
+    "id": "a2-050",
     "name": "Manaphy",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Oceanic Gift",
-        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": 0,
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
+        "damage": "0",
         "cost": [
           "Water"
         ]
@@ -1175,21 +1298,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_051",
+    "id": "a2-051",
     "name": "Magnemite",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Ram",
-        "effect": null,
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Colorless"
         ]
@@ -1197,21 +1322,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_052",
+    "id": "a2-052",
     "name": "Magneton",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Lightning Ball",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Lightning",
           "Lightning"
@@ -1220,21 +1347,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Magnemite",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_053",
+    "id": "a2-053",
     "name": "Magnezone",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Thunder Blast",
-        "effect": "Discard a [L] Energy from this Pokémon.",
-        "damage": 110,
+        "effect": "Discard a Lightning Energy from this Pokémon.",
+        "damage": "110",
         "cost": [
           "Lightning",
           "Colorless",
@@ -1244,21 +1374,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Magneton",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_054",
+    "id": "a2-054",
     "name": "Voltorb",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Big Explosion",
         "effect": "This Pokémon also does 10 damage to itself.",
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Lightning"
         ]
@@ -1266,21 +1399,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_055",
+    "id": "a2-055",
     "name": "Electrode",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Rolling Attack",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Lightning"
         ]
@@ -1288,21 +1423,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_056",
+    "id": "a2-056",
     "name": "Electabuzz",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Charge",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": 0,
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "0",
         "cost": [
           "Lightning"
         ]
@@ -1310,21 +1448,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_057",
+    "id": "a2-057",
     "name": "Electivire",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Exciting Voltage 40+",
-        "effect": "If this Pokémon has at least 2 extra [L] Energy attached, this attack does 80 more damage.",
-        "damage": 0,
+        "name": "Exciting Voltage",
+        "effect": "If this Pokémon has at least 2 extra Lightning Energy attached, this attack does 80 more damage.",
+        "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
@@ -1333,21 +1474,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Electabuzz",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_058",
+    "id": "a2-058",
     "name": "Shinx",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Hide",
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Lightning"
         ]
@@ -1355,21 +1499,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_059",
+    "id": "a2-059",
     "name": "Luxio",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Electric Claws",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Lightning",
           "Colorless"
@@ -1378,21 +1524,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Shinx",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_060",
+    "id": "a2-060",
     "name": "Luxray",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Volt Bolt",
-        "effect": "Discard all [L] Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon.",
-        "damage": 0,
+        "effect": "Discard all Lightning Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon.",
+        "damage": "0",
         "cost": [
           "Lightning",
           "Lightning",
@@ -1402,21 +1551,24 @@
     ],
     "retreatCost": 0,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Luxio",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_061",
+    "id": "a2-061",
     "name": "Pachirisu ex",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Sparking Gadget 40+",
+        "name": "Sparking Gadget",
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
-        "damage": 0,
+        "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
@@ -1425,21 +1577,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_062",
+    "id": "a2-062",
     "name": "Rotom",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Assault Laser 20+",
+        "name": "Assault Laser",
         "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
-        "damage": 0,
+        "damage": "20+",
         "cost": [
           "Colorless"
         ]
@@ -1447,21 +1602,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_063",
+    "id": "a2-063",
     "name": "Togepi",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Pound",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Psychic"
         ]
@@ -1469,21 +1626,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_064",
+    "id": "a2-064",
     "name": "Togetic",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Fairy Wind",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Psychic"
         ]
@@ -1491,21 +1650,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Togepi",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_065",
+    "id": "a2-065",
     "name": "Togekiss",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Overdrive Smash",
         "effect": "During your next turn, this Pokémon's Overdrive Smash attack does +60 damage.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Psychic",
           "Psychic"
@@ -1514,21 +1676,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Togetic",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_066",
+    "id": "a2-066",
     "name": "Misdreavus",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Mumble",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Psychic"
         ]
@@ -1536,21 +1700,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_067",
+    "id": "a2-067",
     "name": "Mismagius ex",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Magical Delusion",
         "effect": "Your opponent's Active Pokémon is now Confused.",
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Psychic",
           "Psychic"
@@ -1559,21 +1726,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_068",
+    "id": "a2-068",
     "name": "Ralts",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Teleport",
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless"
         ]
@@ -1581,21 +1751,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_069",
+    "id": "a2-069",
     "name": "Kirlia",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Slap",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -1603,21 +1775,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Ralts",
+    "rarity": "Common"
   },
   {
-    "id": "a2_070",
+    "id": "a2-070",
     "name": "Duskull",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Will-O-Wisp",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Psychic"
         ]
@@ -1625,21 +1799,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_071",
+    "id": "a2-071",
     "name": "Dusclops",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Psypunch",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Psychic",
           "Colorless",
@@ -1649,21 +1825,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Duskull",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_072",
+    "id": "a2-072",
     "name": "Dusknoir",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Devour Soul",
-        "effect": null,
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Psychic",
           "Colorless",
@@ -1678,21 +1856,24 @@
         "name": "Shadow Void",
         "effect": "As often as you like during your turn, you may choose 1 of your Pokémon that has damage on it, and move all of its damage to this Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Dusclops",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_073",
+    "id": "a2-073",
     "name": "Drifloon",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Expand",
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Psychic"
         ]
@@ -1700,21 +1881,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_074",
+    "id": "a2-074",
     "name": "Drifblim",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Balloon Strike",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Psychic",
           "Psychic"
@@ -1723,21 +1906,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Drifloon",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_075",
+    "id": "a2-075",
     "name": "Uxie",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Mind Boost",
-        "effect": "Take a [P] Energy from your Energy Zone and attach it to Mesprit or Azelf.",
-        "damage": 20,
+        "effect": "Take a Psychic Energy from your Energy Zone and attach it to Mesprit or Azelf.",
+        "damage": "20",
         "cost": [
           "Psychic"
         ]
@@ -1745,21 +1931,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_076",
+    "id": "a2-076",
     "name": "Mesprit",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Supreme Blast",
         "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon.",
-        "damage": 160,
+        "damage": "160",
         "cost": [
           "Psychic",
           "Psychic",
@@ -1769,21 +1958,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_077",
+    "id": "a2-077",
     "name": "Azelf",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Psychic Arrow",
         "effect": "This attack does 20 damage to 1 of your opponent's Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Psychic"
         ]
@@ -1791,21 +1983,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_078",
+    "id": "a2-078",
     "name": "Giratina",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Spooky Shot",
-        "effect": null,
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Psychic",
           "Psychic",
@@ -1820,21 +2014,24 @@
         "name": "Levitate",
         "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_079",
+    "id": "a2-079",
     "name": "Cresselia",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Moonlight Gain",
         "effect": "Heal 20 damage from this Pokémon.",
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Psychic",
           "Psychic"
@@ -1843,21 +2040,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_080",
+    "id": "a2-080",
     "name": "Rhyhorn",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Horn Attack",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Fighting",
           "Colorless"
@@ -1866,21 +2065,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_081",
+    "id": "a2-081",
     "name": "Rhydon",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Wrack Down",
-        "effect": null,
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Fighting",
           "Fighting",
@@ -1890,21 +2091,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Rhyhorn",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_082",
+    "id": "a2-082",
     "name": "Rhyperior",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Mountain Swing",
         "effect": "Discard the top 3 cards of your deck.",
-        "damage": 150,
+        "damage": "150",
         "cost": [
           "Fighting",
           "Fighting",
@@ -1915,21 +2119,23 @@
     ],
     "retreatCost": 4,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Rhydon",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_083",
+    "id": "a2-083",
     "name": "Gligar",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Pierce",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Fighting"
         ]
@@ -1937,21 +2143,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_084",
+    "id": "a2-084",
     "name": "Gliscor",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Acrobatics 20+",
+        "name": "Acrobatics",
         "effect": "Flip 2 coins. This attack does 20 more damage for each heads.",
-        "damage": 0,
+        "damage": "20+",
         "cost": [
           "Fighting"
         ]
@@ -1959,21 +2168,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Gligar",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_085",
+    "id": "a2-085",
     "name": "Hitmontop",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Spinning Attack",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Fighting",
           "Fighting"
@@ -1982,21 +2193,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_086",
+    "id": "a2-086",
     "name": "Nosepass",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Ram",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Colorless",
           "Colorless"
@@ -2005,21 +2218,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_087",
+    "id": "a2-087",
     "name": "Regirock",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Boulder Crush",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Fighting",
           "Fighting",
@@ -2035,21 +2250,23 @@
         "name": "Exoskeleton",
         "effect": "This Pokémon takes −20 damage from attacks."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_088",
+    "id": "a2-088",
     "name": "Cranidos",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Fighting"
         ]
@@ -2057,21 +2274,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Skull Fossil",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_089",
+    "id": "a2-089",
     "name": "Rampardos",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Head Smash",
         "effect": "If your opponent's Pokémon is Knocked Out by damage from this attack, this Pokémon also does 50 damage to itself.",
-        "damage": 130,
+        "damage": "130",
         "cost": [
           "Fighting"
         ]
@@ -2079,21 +2299,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Cranidos",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_090",
+    "id": "a2-090",
     "name": "Wormadam",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Land Crush",
-        "effect": null,
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Fighting",
           "Colorless",
@@ -2103,21 +2325,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Common"
   },
   {
-    "id": "a2_091",
+    "id": "a2-091",
     "name": "Riolu",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Jab",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Fighting"
         ]
@@ -2125,21 +2349,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_092",
+    "id": "a2-092",
     "name": "Lucario",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Submarine Blow",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Fighting",
           "Fighting"
@@ -2151,23 +2377,25 @@
     "abilities": [
       {
         "name": "Fighting Coach",
-        "effect": "Attacks used by your [F] Pokémon do +20 damage to your opponent's Active Pokémon."
+        "effect": "Attacks used by your Fighting Pokémon do +20 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Riolu",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_093",
+    "id": "a2-093",
     "name": "Hippopotas",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Fighting",
           "Fighting",
@@ -2177,21 +2405,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_094",
+    "id": "a2-094",
     "name": "Hippowdon",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Earthen Press",
-        "effect": null,
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Fighting",
           "Fighting",
@@ -2202,21 +2432,24 @@
     ],
     "retreatCost": 4,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Hippopotas",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_095",
+    "id": "a2-095",
     "name": "Gallade ex",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Energized Blade 70+",
+        "name": "Energized Blade",
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
-        "damage": 0,
+        "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
@@ -2225,21 +2458,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_096",
+    "id": "a2-096",
     "name": "Murkrow",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Peck",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Darkness"
         ]
@@ -2247,21 +2482,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_097",
+    "id": "a2-097",
     "name": "Honchkrow",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Skill Dive",
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2270,21 +2508,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Murkrow",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_098",
+    "id": "a2-098",
     "name": "Sneasel",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Double Scratch 20x",
+        "name": "Double Scratch",
         "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
-        "damage": 0,
+        "damage": "20x",
         "cost": [
           "Darkness"
         ]
@@ -2292,21 +2533,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_099",
+    "id": "a2-099",
     "name": "Weavile ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Scratching Nails 30+",
+        "name": "Scratching Nails",
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",
-        "damage": 0,
+        "damage": "30+",
         "cost": [
           "Darkness"
         ]
@@ -2314,21 +2558,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_100",
+    "id": "a2-100",
     "name": "Poochyena",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Bite",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Darkness"
         ]
@@ -2336,21 +2582,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_101",
+    "id": "a2-101",
     "name": "Mightyena",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Darkness Fang",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Darkness",
           "Colorless"
@@ -2359,21 +2607,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Poochyena",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_102",
+    "id": "a2-102",
     "name": "Stunky",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Scratch",
-        "effect": null,
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Darkness"
         ]
@@ -2381,21 +2631,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_103",
+    "id": "a2-103",
     "name": "Skuntank",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Poison Gas",
         "effect": "Your opponent's Active Pokémon is now Poisoned.",
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Darkness",
           "Colorless"
@@ -2404,21 +2657,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Stunky",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_104",
+    "id": "a2-104",
     "name": "Spiritomb",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Swirling Disaster",
         "effect": "This attack does 10 damage to each of your opponent's Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless"
         ]
@@ -2426,21 +2682,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_105",
+    "id": "a2-105",
     "name": "Skorupi",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Pierce",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Darkness",
           "Colorless"
@@ -2449,21 +2707,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_106",
+    "id": "a2-106",
     "name": "Drapion",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Cross Poison 40x",
+        "name": "Cross Poison",
         "effect": "Flip 4 coins. This attack does 40 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now Poisoned.",
-        "damage": 0,
+        "damage": "40x",
         "cost": [
           "Darkness",
           "Darkness",
@@ -2473,21 +2734,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Skorupi",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_107",
+    "id": "a2-107",
     "name": "Croagunk",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Group Beatdown 20x",
+        "name": "Group Beatdown",
         "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads.",
-        "damage": 0,
+        "damage": "20x",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2496,21 +2760,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_108",
+    "id": "a2-108",
     "name": "Toxicroak",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Group Beatdown 40x",
+        "name": "Group Beatdown",
         "effect": "Flip a coin for each Pokémon you have in play. This attack does 40 damage for each heads.",
-        "damage": 0,
+        "damage": "40x",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2519,21 +2786,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Croagunk",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_109",
+    "id": "a2-109",
     "name": "Darkrai",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Dark Void",
         "effect": "Your opponent's Active Pokémon is now Asleep.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Darkness",
           "Darkness",
@@ -2543,21 +2813,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_110",
+    "id": "a2-110",
     "name": "Darkrai ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Dark Prism",
-        "effect": null,
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Darkness",
           "Darkness",
@@ -2570,23 +2842,26 @@
     "abilities": [
       {
         "name": "Nightmare Aura",
-        "effect": "Whenever you attach a [D] Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+        "effect": "Whenever you attach a Darkness Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_111",
+    "id": "a2-111",
     "name": "Skarmory",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Metal Arms 20+",
+        "name": "Metal Arms",
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
-        "damage": 0,
+        "damage": "20+",
         "cost": [
           "Metal"
         ]
@@ -2594,21 +2869,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_112",
+    "id": "a2-112",
     "name": "Registeel",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Metal Claw",
-        "effect": null,
-        "damage": 90,
+        "damage": "90",
         "cost": [
           "Metal",
           "Metal",
@@ -2618,21 +2895,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_113",
+    "id": "a2-113",
     "name": "Shieldon",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Metal",
           "Colorless"
@@ -2641,21 +2920,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Armor Fossil",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_114",
+    "id": "a2-114",
     "name": "Bastiodon",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Headbang",
-        "effect": null,
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Metal",
           "Metal",
@@ -2670,21 +2951,24 @@
         "name": "Guarded Grill",
         "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, this Pokémon takes −100 damage from that attack."
       }
-    ]
+    ],
+    "evolvesFrom": "Shieldon",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_115",
+    "id": "a2-115",
     "name": "Wormadam",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Iron Head 50+",
+        "name": "Iron Head",
         "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
-        "damage": 0,
+        "damage": "50+",
         "cost": [
           "Metal",
           "Metal"
@@ -2693,21 +2977,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Common"
   },
   {
-    "id": "a2_116",
+    "id": "a2-116",
     "name": "Bronzor",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Tackle",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Metal",
           "Colorless"
@@ -2716,21 +3002,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_117",
+    "id": "a2-117",
     "name": "Bronzong",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Guard Press",
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Metal",
           "Metal",
@@ -2740,21 +3029,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Bronzor",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_118",
+    "id": "a2-118",
     "name": "Probopass",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Triple Nose 30+",
+        "name": "Triple Nose",
         "effect": "Flip 3 coins. This attack does 50 more damage for each heads.",
-        "damage": 0,
+        "damage": "30+",
         "cost": [
           "Metal",
           "Metal",
@@ -2765,21 +3057,24 @@
     ],
     "retreatCost": 4,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_119",
+    "id": "a2-119",
     "name": "Dialga ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
-        "damage": 30,
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": "30",
         "cost": [
           "Metal",
           "Metal"
@@ -2787,8 +3082,7 @@
       },
       {
         "name": "Heavy Impact",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Metal",
           "Metal",
@@ -2799,21 +3093,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_120",
+    "id": "a2-120",
     "name": "Heatran",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Steel Tackle",
         "effect": "This Pokémon also does 20 damage to itself.",
-        "damage": 110,
+        "damage": "110",
         "cost": [
           "Metal",
           "Metal",
@@ -2823,21 +3120,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_121",
+    "id": "a2-121",
     "name": "Gible",
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -2845,21 +3144,23 @@
     ],
     "retreatCost": 1,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_122",
+    "id": "a2-122",
     "name": "Gabite",
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Slash",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Water",
           "Fighting"
@@ -2868,21 +3169,23 @@
     ],
     "retreatCost": 1,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Gible",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_123",
+    "id": "a2-123",
     "name": "Garchomp",
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Dragon Claw",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Water",
           "Fighting"
@@ -2896,21 +3199,23 @@
         "name": "Reckless Shearing",
         "effect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card."
       }
-    ]
+    ],
+    "evolvesFrom": "Gabite",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_124",
+    "id": "a2-124",
     "name": "Lickitung",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Tongue Slap",
-        "effect": null,
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Colorless",
           "Colorless",
@@ -2920,21 +3225,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_125",
+    "id": "a2-125",
     "name": "Lickilicky ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Licking Fury 100+",
+        "name": "Licking Fury",
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
-        "damage": 0,
+        "damage": "100+",
         "cost": [
           "Colorless",
           "Colorless",
@@ -2945,21 +3253,24 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2_126",
+    "id": "a2-126",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Quick Attack 10+",
+        "name": "Quick Attack",
         "effect": "Flip a coin. If heads, this attack does 20 more damage.",
-        "damage": 0,
+        "damage": "10+",
         "cost": [
           "Colorless"
         ]
@@ -2967,21 +3278,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_127",
+    "id": "a2-127",
     "name": "Porygon",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Beam",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -2989,21 +3302,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_128",
+    "id": "a2-128",
     "name": "Porygon2",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Sharpen",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Colorless"
         ]
@@ -3011,21 +3326,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Porygon",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_129",
-    "name": "Porygon-Z",
-    "element": "Colorless",
+    "id": "a2-129",
+    "name": "Porygon",
+    "element": "Z",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Buggy Beam",
-        "effect": "Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: [G],[R],[W],[L],[P],[F],[D], or [M].",
-        "damage": 80,
+        "effect": "Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: Grass,Fire,Water,Lightning,Psychic,Fighting,Darkness, or Metal.",
+        "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
@@ -3035,21 +3353,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Porygon2",
+    "rarity": "Rare"
   },
   {
-    "id": "a2_130",
+    "id": "a2-130",
     "name": "Aipom",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Tail Jab",
-        "effect": null,
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -3057,21 +3377,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_131",
+    "id": "a2-131",
     "name": "Ambipom",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Double Hit 40x",
+        "name": "Double Hit",
         "effect": "Flip 2 coins. This attack does 40 damage for each heads.",
-        "damage": 0,
+        "damage": "40x",
         "cost": [
           "Colorless"
         ]
@@ -3079,21 +3402,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Aipom",
+    "rarity": "Common"
   },
   {
-    "id": "a2_132",
+    "id": "a2-132",
     "name": "Starly",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Pluck",
         "effect": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon.",
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -3101,21 +3427,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_133",
+    "id": "a2-133",
     "name": "Staravia",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Wing Attack",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3124,21 +3452,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Starly",
+    "rarity": "Common"
   },
   {
-    "id": "a2_134",
+    "id": "a2-134",
     "name": "Staraptor",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Clutch",
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
@@ -3148,21 +3479,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_135",
+    "id": "a2-135",
     "name": "Bidoof",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Super Fang",
         "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3171,21 +3505,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_136",
+    "id": "a2-136",
     "name": "Bibarel",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3194,21 +3530,23 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Common"
   },
   {
-    "id": "a2_137",
+    "id": "a2-137",
     "name": "Buneary",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Splash",
-        "effect": null,
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Colorless"
         ]
@@ -3216,21 +3554,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_138",
+    "id": "a2-138",
     "name": "Lopunny",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Jump Kick",
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
-        "damage": 20,
+        "damage": "20",
         "cost": [
           "Colorless"
         ]
@@ -3238,21 +3579,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Common"
   },
   {
-    "id": "a2_139",
+    "id": "a2-139",
     "name": "Glameow",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Pose",
         "effect": "Flip a coin. If tails, this attack does nothing.",
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Colorless"
         ]
@@ -3260,21 +3604,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_140",
+    "id": "a2-140",
     "name": "Purugly",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Interrupt",
         "effect": "Your opponent reveals their hand. Choose a card you find there and shuffle it into your opponent's deck.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Colorless",
           "Colorless",
@@ -3284,21 +3631,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Glameow",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_141",
+    "id": "a2-141",
     "name": "Chatot",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Fury Attack 20x",
+        "name": "Fury Attack",
         "effect": "Flip 3 coins. This attack does 20 damage for each heads.",
-        "damage": 0,
+        "damage": "20x",
         "cost": [
           "Colorless"
         ]
@@ -3306,21 +3656,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_142",
+    "id": "a2-142",
     "name": "Fan Rotom",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Spin Storm",
         "effect": "Flip a coin. If heads, put your opponent's Active Pokémon into their hand.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3329,21 +3682,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_143",
+    "id": "a2-143",
     "name": "Regigigas",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
-        "name": "Raging Hammer 50+",
+        "name": "Raging Hammer",
         "effect": "This attack does more damage equal to the damage this Pokémon has on it.",
-        "damage": 0,
+        "damage": "50+",
         "cost": [
           "Colorless",
           "Colorless",
@@ -3354,177 +3710,216 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2_144",
+    "id": "a2-144",
     "name": "Skull Fossil",
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_145",
+    "id": "a2-145",
     "name": "Armor Fossil",
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2_146",
+    "id": "a2-146",
     "name": "Pokémon Communication",
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_147",
+    "id": "a2-147",
     "name": "Giant Cape",
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_148",
+    "id": "a2-148",
     "name": "Rocky Helmet",
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_149",
+    "id": "a2-149",
     "name": "Lum Berry",
     "element": null,
     "type": "Trainer",
     "subtype": "Tool",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_150",
+    "id": "a2-150",
     "name": "Cyrus",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_151",
+    "id": "a2-151",
     "name": "Team Galactic Grunt",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_152",
+    "id": "a2-152",
     "name": "Cynthia",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_153",
+    "id": "a2-153",
     "name": "Volkner",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_154",
+    "id": "a2-154",
     "name": "Dawn",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_155",
+    "id": "a2-155",
     "name": "Mars",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2_156",
+    "id": "a2-156",
     "name": "Tangrowth",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Mega Drain",
         "effect": "Heal 30 damage from this Pokémon.",
-        "damage": 90,
+        "damage": "90",
         "cost": [
           "Grass",
           "Grass",
@@ -3535,21 +3930,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Tangela",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_157",
+    "id": "a2-157",
     "name": "Combee",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Call for Family",
-        "effect": "Put 1 random  from your deck onto your Bench.",
-        "damage": 0,
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench.",
+        "damage": "0",
         "cost": [
           "Colorless"
         ]
@@ -3557,21 +3955,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_158",
+    "id": "a2-158",
     "name": "Carnivine",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 90,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Flog 40+",
+        "name": "Flog",
         "effect": "Flip a coin. If heads, this attack does 50 more damage.",
-        "damage": 0,
+        "damage": "40+",
         "cost": [
           "Grass",
           "Grass",
@@ -3581,21 +3982,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_159",
+    "id": "a2-159",
     "name": "Shaymin",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Flop",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Grass",
           "Colorless"
@@ -3609,21 +4012,23 @@
         "name": "Fragrant Flower Garden",
         "effect": "Once during your turn, you may heal 10 damage from each of your Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_160",
+    "id": "a2-160",
     "name": "Mamoswine",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Frosty Flattening",
-        "effect": null,
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Water",
           "Water",
@@ -3637,23 +4042,26 @@
     "abilities": [
       {
         "name": "Thick Fat",
-        "effect": "This Pokémon takes −30 damage from attacks from [R] or [W] Pokémon."
+        "effect": "This Pokémon takes −30 damage from attacks from Fire or Water Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Piloswine",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_161",
+    "id": "a2-161",
     "name": "Gastrodon",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Muddy Water",
         "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Water",
           "Colorless",
@@ -3663,21 +4071,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Shellos",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_162",
+    "id": "a2-162",
     "name": "Manaphy",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Oceanic Gift",
-        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": 0,
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
+        "damage": "0",
         "cost": [
           "Water"
         ]
@@ -3685,21 +4096,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_163",
+    "id": "a2-163",
     "name": "Shinx",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Hide",
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Lightning"
         ]
@@ -3707,21 +4121,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_164",
+    "id": "a2-164",
     "name": "Rotom",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Assault Laser 20+",
+        "name": "Assault Laser",
         "effect": "If your opponent's Active Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
-        "damage": 0,
+        "damage": "20+",
         "cost": [
           "Colorless"
         ]
@@ -3729,21 +4146,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_165",
+    "id": "a2-165",
     "name": "Drifloon",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Expand",
         "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
-        "damage": 10,
+        "damage": "10",
         "cost": [
           "Psychic"
         ]
@@ -3751,21 +4171,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_166",
+    "id": "a2-166",
     "name": "Mesprit",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Supreme Blast",
         "effect": "You can use this attack only if you have Uxie and Azelf on your Bench. Discard all Energy from this Pokémon.",
-        "damage": 160,
+        "damage": "160",
         "cost": [
           "Psychic",
           "Psychic",
@@ -3775,21 +4198,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_167",
+    "id": "a2-167",
     "name": "Giratina",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Spooky Shot",
-        "effect": null,
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Psychic",
           "Psychic",
@@ -3804,21 +4229,24 @@
         "name": "Levitate",
         "effect": "If this Pokémon has any Energy attached, it has no Retreat Cost."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_168",
+    "id": "a2-168",
     "name": "Cresselia",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Moonlight Gain",
         "effect": "Heal 20 damage from this Pokémon.",
-        "damage": 50,
+        "damage": "50",
         "cost": [
           "Psychic",
           "Psychic"
@@ -3827,21 +4255,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_169",
+    "id": "a2-169",
     "name": "Rhyperior",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Mountain Swing",
         "effect": "Discard the top 3 cards of your deck.",
-        "damage": 150,
+        "damage": "150",
         "cost": [
           "Fighting",
           "Fighting",
@@ -3852,21 +4283,23 @@
     ],
     "retreatCost": 4,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Rhydon",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_170",
+    "id": "a2-170",
     "name": "Lucario",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Submarine Blow",
-        "effect": null,
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Fighting",
           "Fighting"
@@ -3878,23 +4311,25 @@
     "abilities": [
       {
         "name": "Fighting Coach",
-        "effect": "Attacks used by your [F] Pokémon do +20 damage to your opponent's Active Pokémon."
+        "effect": "Attacks used by your Fighting Pokémon do +20 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Riolu",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_171",
+    "id": "a2-171",
     "name": "Hippopotas",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": null,
-        "damage": 60,
+        "damage": "60",
         "cost": [
           "Fighting",
           "Fighting",
@@ -3904,21 +4339,24 @@
     ],
     "retreatCost": 3,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_172",
+    "id": "a2-172",
     "name": "Spiritomb",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Swirling Disaster",
         "effect": "This attack does 10 damage to each of your opponent's Pokémon.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless"
         ]
@@ -3926,21 +4364,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_173",
+    "id": "a2-173",
     "name": "Croagunk",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Group Beatdown 20x",
+        "name": "Group Beatdown",
         "effect": "Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads.",
-        "damage": 0,
+        "damage": "20x",
         "cost": [
           "Darkness",
           "Darkness"
@@ -3949,21 +4390,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_174",
+    "id": "a2-174",
     "name": "Heatran",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Steel Tackle",
         "effect": "This Pokémon also does 20 damage to itself.",
-        "damage": 110,
+        "damage": "110",
         "cost": [
           "Metal",
           "Metal",
@@ -3973,21 +4417,23 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_175",
+    "id": "a2-175",
     "name": "Garchomp",
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Dragon Claw",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Water",
           "Fighting"
@@ -4001,21 +4447,24 @@
         "name": "Reckless Shearing",
         "effect": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card."
       }
-    ]
+    ],
+    "evolvesFrom": "Gabite",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_176",
+    "id": "a2-176",
     "name": "Staraptor",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Clutch",
         "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4025,21 +4474,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_177",
+    "id": "a2-177",
     "name": "Bidoof",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Super Fang",
         "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down.",
-        "damage": 0,
+        "damage": "0",
         "cost": [
           "Colorless",
           "Colorless"
@@ -4048,21 +4500,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_178",
+    "id": "a2-178",
     "name": "Glameow",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Pose",
         "effect": "Flip a coin. If tails, this attack does nothing.",
-        "damage": 40,
+        "damage": "40",
         "cost": [
           "Colorless"
         ]
@@ -4070,21 +4525,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_179",
+    "id": "a2-179",
     "name": "Regigigas",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Raging Hammer 50+",
+        "name": "Raging Hammer",
         "effect": "This attack does more damage equal to the damage this Pokémon has on it.",
-        "damage": 0,
+        "damage": "50+",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4095,21 +4553,24 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2_180",
+    "id": "a2-180",
     "name": "Yanmega ex",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Air Slash",
         "effect": "Discard a random Energy from this Pokémon.",
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4119,21 +4580,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_181",
+    "id": "a2-181",
     "name": "Infernape ex",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Flare Blitz",
-        "effect": "Discard all [R] Energy from this Pokémon.",
-        "damage": 140,
+        "effect": "Discard all Fire Energy from this Pokémon.",
+        "damage": "140",
         "cost": [
           "Fire",
           "Fire"
@@ -4142,29 +4606,31 @@
     ],
     "retreatCost": 0,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_182",
+    "id": "a2-182",
     "name": "Palkia ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Slash",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water"
         ]
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
-        "damage": 150,
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "damage": "150",
         "cost": [
           "Water",
           "Water",
@@ -4175,21 +4641,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_183",
+    "id": "a2-183",
     "name": "Pachirisu ex",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Sparking Gadget 40+",
+        "name": "Sparking Gadget",
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
-        "damage": 0,
+        "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
@@ -4198,21 +4667,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_184",
+    "id": "a2-184",
     "name": "Mismagius ex",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Magical Delusion",
         "effect": "Your opponent's Active Pokémon is now Confused.",
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Psychic",
           "Psychic"
@@ -4221,21 +4693,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_185",
+    "id": "a2-185",
     "name": "Gallade ex",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Energized Blade 70+",
+        "name": "Energized Blade",
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
-        "damage": 0,
+        "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
@@ -4244,21 +4719,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_186",
+    "id": "a2-186",
     "name": "Weavile ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Scratching Nails 30+",
+        "name": "Scratching Nails",
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",
-        "damage": 0,
+        "damage": "30+",
         "cost": [
           "Darkness"
         ]
@@ -4266,21 +4744,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_187",
+    "id": "a2-187",
     "name": "Darkrai ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Dark Prism",
-        "effect": null,
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Darkness",
           "Darkness",
@@ -4293,23 +4773,26 @@
     "abilities": [
       {
         "name": "Nightmare Aura",
-        "effect": "Whenever you attach a [D] Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+        "effect": "Whenever you attach a Darkness Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_188",
+    "id": "a2-188",
     "name": "Dialga ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
-        "damage": 30,
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": "30",
         "cost": [
           "Metal",
           "Metal"
@@ -4317,8 +4800,7 @@
       },
       {
         "name": "Heavy Impact",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Metal",
           "Metal",
@@ -4329,21 +4811,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_189",
+    "id": "a2-189",
     "name": "Lickilicky ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Licking Fury 100+",
+        "name": "Licking Fury",
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
-        "damage": 0,
+        "damage": "100+",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4354,99 +4839,120 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_190",
+    "id": "a2-190",
     "name": "Cyrus",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_191",
+    "id": "a2-191",
     "name": "Team Galactic Grunt",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_192",
+    "id": "a2-192",
     "name": "Cynthia",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_193",
+    "id": "a2-193",
     "name": "Volkner",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_194",
+    "id": "a2-194",
     "name": "Dawn",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_195",
+    "id": "a2-195",
     "name": "Mars",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_196",
+    "id": "a2-196",
     "name": "Yanmega ex",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Air Slash",
         "effect": "Discard a random Energy from this Pokémon.",
-        "damage": 120,
+        "damage": "120",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4456,21 +4962,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_197",
+    "id": "a2-197",
     "name": "Infernape ex",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Flare Blitz",
-        "effect": "Discard all [R] Energy from this Pokémon.",
-        "damage": 140,
+        "effect": "Discard all Fire Energy from this Pokémon.",
+        "damage": "140",
         "cost": [
           "Fire",
           "Fire"
@@ -4479,21 +4988,24 @@
     ],
     "retreatCost": 0,
     "weakness": "Water",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_198",
+    "id": "a2-198",
     "name": "Pachirisu ex",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Sparking Gadget 40+",
+        "name": "Sparking Gadget",
         "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage.",
-        "damage": 0,
+        "damage": "40+",
         "cost": [
           "Lightning",
           "Lightning"
@@ -4502,21 +5014,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_199",
+    "id": "a2-199",
     "name": "Mismagius ex",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Magical Delusion",
         "effect": "Your opponent's Active Pokémon is now Confused.",
-        "damage": 70,
+        "damage": "70",
         "cost": [
           "Psychic",
           "Psychic"
@@ -4525,21 +5040,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_200",
+    "id": "a2-200",
     "name": "Gallade ex",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
-        "name": "Energized Blade 70+",
+        "name": "Energized Blade",
         "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
-        "damage": 0,
+        "damage": "70+",
         "cost": [
           "Fighting",
           "Fighting"
@@ -4548,21 +5066,24 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_201",
+    "id": "a2-201",
     "name": "Weavile ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Scratching Nails 30+",
+        "name": "Scratching Nails",
         "effect": "If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.",
-        "damage": 0,
+        "damage": "30+",
         "cost": [
           "Darkness"
         ]
@@ -4570,21 +5091,23 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_202",
+    "id": "a2-202",
     "name": "Darkrai ex",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Dark Prism",
-        "effect": null,
-        "damage": 80,
+        "damage": "80",
         "cost": [
           "Darkness",
           "Darkness",
@@ -4597,23 +5120,26 @@
     "abilities": [
       {
         "name": "Nightmare Aura",
-        "effect": "Whenever you attach a [D] Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+        "effect": "Whenever you attach a Darkness Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_203",
+    "id": "a2-203",
     "name": "Lickilicky ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
-        "name": "Licking Fury 100+",
+        "name": "Licking Fury",
         "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
-        "damage": 0,
+        "damage": "100+",
         "cost": [
           "Colorless",
           "Colorless",
@@ -4624,29 +5150,31 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2_204",
+    "id": "a2-204",
     "name": "Palkia ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Palkia",
     "attacks": [
       {
         "name": "Slash",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water"
         ]
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
-        "damage": 150,
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "damage": "150",
         "cost": [
           "Water",
           "Water",
@@ -4657,21 +5185,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
   },
   {
-    "id": "a2_205",
+    "id": "a2-205",
     "name": "Dialga ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": "Dialga",
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
-        "damage": 30,
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": "30",
         "cost": [
           "Metal",
           "Metal"
@@ -4679,8 +5210,7 @@
       },
       {
         "name": "Heavy Impact",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Metal",
           "Metal",
@@ -4691,29 +5221,31 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
   },
   {
-    "id": "a2_206",
+    "id": "a2-206",
     "name": "Palkia ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Slash",
-        "effect": null,
-        "damage": 30,
+        "damage": "30",
         "cost": [
           "Water"
         ]
       },
       {
         "name": "Dimensional Storm",
-        "effect": "Discard 3 [W] Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
-        "damage": 150,
+        "effect": "Discard 3 Water Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "damage": "150",
         "cost": [
           "Water",
           "Water",
@@ -4724,21 +5256,24 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
   },
   {
-    "id": "a2_207",
+    "id": "a2-207",
     "name": "Dialga ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
     "set": "Space-Time Smackdown (A2)",
+    "pack": null,
     "attacks": [
       {
         "name": "Metallic Turbo",
-        "effect": "Take 2 [M] Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
-        "damage": 30,
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": "30",
         "cost": [
           "Metal",
           "Metal"
@@ -4746,8 +5281,7 @@
       },
       {
         "name": "Heavy Impact",
-        "effect": null,
-        "damage": 100,
+        "damage": "100",
         "cost": [
           "Metal",
           "Metal",
@@ -4758,6 +5292,8 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": null
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
   }
 ]

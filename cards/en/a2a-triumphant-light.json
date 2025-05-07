@@ -1,13 +1,13 @@
 [
   {
-    "id": "a2a_001",
+    "id": "a2a-001",
     "name": "Heracross",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Single-Horn Throw",
@@ -22,17 +22,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_002",
+    "id": "a2a-002",
     "name": "Burmy",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Ram",
@@ -44,17 +46,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_003",
+    "id": "a2a-003",
     "name": "Mothim",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Gust",
@@ -67,17 +71,19 @@
     ],
     "retreatCost": 0,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_004",
+    "id": "a2a-004",
     "name": "Combee",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Bug Bite",
@@ -89,17 +95,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_005",
+    "id": "a2a-005",
     "name": "Vespiquen",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Reckless Charge",
@@ -114,17 +122,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Combee",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_006",
+    "id": "a2a-006",
     "name": "Cherubi",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Leafage",
@@ -136,17 +146,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_007",
+    "id": "a2a-007",
     "name": "Cherrim",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Worry Seed",
@@ -159,17 +171,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Cherubi",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_008",
+    "id": "a2a-008",
     "name": "Cherrim",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Leech Seed",
@@ -183,17 +197,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Cherubi",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_009",
+    "id": "a2a-009",
     "name": "Carnivine",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Vine Whip",
@@ -210,17 +226,19 @@
         "name": "Power Link",
         "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_010",
+    "id": "a2a-010",
     "name": "Leafeon ex",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -237,19 +255,21 @@
     "abilities": [
       {
         "name": "Forest Breath",
-        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a Grass Energy from your Energy Zone and attach it to 1 of your Grass Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2a_011",
+    "id": "a2a-011",
     "name": "Houndour",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Flare",
@@ -261,17 +281,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_012",
+    "id": "a2a-012",
     "name": "Houndoom",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Corner",
@@ -285,20 +307,22 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_013",
+    "id": "a2a-013",
     "name": "Heatran",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
-        "name": "Ragin' Mad Strike ",
+        "name": "Ragin’ Mad Strike",
         "effect": "If this Pokémon has damage on it, this attack does 40 more damage.",
         "damage": "40+",
         "cost": [
@@ -314,17 +338,19 @@
         "name": "Speed Link",
         "effect": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_014",
+    "id": "a2a-014",
     "name": "Marill",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Water Gun",
@@ -336,17 +362,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_015",
+    "id": "a2a-015",
     "name": "Azumarill",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Waterfall",
@@ -359,17 +387,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Marill",
+    "rarity": "Common"
   },
   {
-    "id": "a2a_016",
+    "id": "a2a-016",
     "name": "Barboach",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Mud-Slap",
@@ -382,17 +412,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_017",
+    "id": "a2a-017",
     "name": "Whiscash",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Thrash",
@@ -408,17 +440,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Barboach",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_018",
+    "id": "a2a-018",
     "name": "Snorunt",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Icicle",
@@ -430,17 +464,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_019",
+    "id": "a2a-019",
     "name": "Froslass",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Blizzard",
@@ -454,17 +490,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Snorunt",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_020",
+    "id": "a2a-020",
     "name": "Snover",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Corkscrew Punch",
@@ -477,17 +515,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Metal",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_021",
+    "id": "a2a-021",
     "name": "Abomasnow",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Mega Punch",
@@ -504,19 +544,21 @@
     "abilities": [
       {
         "name": "Vigor Link",
-        "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less [C] Energy."
+        "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less Colorless Energy."
       }
-    ]
+    ],
+    "evolvesFrom": "Snover",
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_022",
+    "id": "a2a-022",
     "name": "Glaceon ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Freezing Wind",
@@ -535,20 +577,22 @@
         "name": "Snowy Terrain",
         "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2a_023",
-    "name": "Palkia",
+    "id": "a2a-023",
+    "name": "Origin Forme Palkia",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
-        "name": "Zone Smash ",
+        "name": "Zone Smash",
         "effect": "Flip a coin. If heads, this attack does 60 more damage.",
         "damage": "60+",
         "cost": [
@@ -560,17 +604,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_024",
+    "id": "a2a-024",
     "name": "Phione",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Water Pulse",
@@ -584,17 +630,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_025",
+    "id": "a2a-025",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Spark",
@@ -607,17 +655,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_026",
+    "id": "a2a-026",
     "name": "Raichu",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Spark",
@@ -636,17 +686,19 @@
         "name": "Resilience Link",
         "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
       }
-    ]
+    ],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_027",
+    "id": "a2a-027",
     "name": "Electrike",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Zap Kick",
@@ -658,17 +710,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_028",
+    "id": "a2a-028",
     "name": "Manectric",
     "element": "Lightning",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Flash",
@@ -681,17 +735,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Electrike",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_029",
+    "id": "a2a-029",
     "name": "Clefairy",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Smack",
@@ -704,17 +760,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_030",
+    "id": "a2a-030",
     "name": "Clefable",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Moonblast",
@@ -729,17 +787,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Metal",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Clefairy",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_031",
+    "id": "a2a-031",
     "name": "Gastly",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Astonish",
@@ -752,17 +812,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_032",
+    "id": "a2a-032",
     "name": "Haunter",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Mumble",
@@ -775,17 +837,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "Common"
   },
   {
-    "id": "a2a_033",
+    "id": "a2a-033",
     "name": "Gengar",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Hypnoblast",
@@ -799,17 +863,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_034",
+    "id": "a2a-034",
     "name": "Unown",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Hidden Power",
@@ -826,17 +892,19 @@
         "name": "CHECK",
         "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_035",
+    "id": "a2a-035",
     "name": "Rotom",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Dash Attack",
@@ -854,17 +922,19 @@
         "name": "Speed Link",
         "effect": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_036",
+    "id": "a2a-036",
     "name": "Sudowoodo",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Fighting Headbutt",
@@ -877,17 +947,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_037",
+    "id": "a2a-037",
     "name": "Phanpy",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Rollout",
@@ -899,17 +971,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_038",
+    "id": "a2a-038",
     "name": "Donphan",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Rolling Spin",
@@ -924,17 +998,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_039",
+    "id": "a2a-039",
     "name": "Larvitar",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Corkscrew Punch",
@@ -947,17 +1023,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_040",
+    "id": "a2a-040",
     "name": "Pupitar",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Speed Attack",
@@ -971,17 +1049,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Larvitar",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_041",
+    "id": "a2a-041",
     "name": "Tyranitar",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Land Crush",
@@ -1001,17 +1081,19 @@
         "name": "Power Link",
         "effect": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_042",
+    "id": "a2a-042",
     "name": "Nosepass",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Tackle",
@@ -1023,17 +1105,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_043",
+    "id": "a2a-043",
     "name": "Meditite",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Kick",
@@ -1045,17 +1129,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_044",
+    "id": "a2a-044",
     "name": "Medicham",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Kick Shot",
@@ -1068,17 +1154,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Meditite",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_045",
+    "id": "a2a-045",
     "name": "Gible",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Tackle",
@@ -1090,17 +1178,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_046",
+    "id": "a2a-046",
     "name": "Gabite",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Sharp Scythe",
@@ -1112,17 +1202,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gible",
+    "rarity": "Common"
   },
   {
-    "id": "a2a_047",
+    "id": "a2a-047",
     "name": "Garchomp ex",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -1144,17 +1236,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2a_048",
+    "id": "a2a-048",
     "name": "Zubat",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Bite",
@@ -1166,17 +1260,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_049",
+    "id": "a2a-049",
     "name": "Golbat",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Bite",
@@ -1188,17 +1284,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Zubat",
+    "rarity": "Common"
   },
   {
-    "id": "a2a_050",
+    "id": "a2a-050",
     "name": "Crobat",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 110,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Darkness Fang",
@@ -1215,17 +1313,19 @@
         "name": "Cunning Link",
         "effect": "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Golbat",
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_051",
+    "id": "a2a-051",
     "name": "Croagunk",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Beat",
@@ -1237,17 +1337,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_052",
+    "id": "a2a-052",
     "name": "Toxicroak",
     "element": "Darkness",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Toxic",
@@ -1260,17 +1362,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Croagunk",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_053",
+    "id": "a2a-053",
     "name": "Magnemite",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Tackle",
@@ -1282,17 +1386,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_054",
+    "id": "a2a-054",
     "name": "Magneton",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Rolling Attack",
@@ -1305,17 +1411,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Magnemite",
+    "rarity": "Common"
   },
   {
-    "id": "a2a_055",
+    "id": "a2a-055",
     "name": "Magnezone",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Power Beam",
@@ -1334,17 +1442,19 @@
         "name": "Resilience Link",
         "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
       }
-    ]
+    ],
+    "evolvesFrom": "Magneton",
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_056",
+    "id": "a2a-056",
     "name": "Mawile",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Iron Beam Breaker",
@@ -1357,17 +1467,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_057",
+    "id": "a2a-057",
     "name": "Probopass ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -1382,17 +1494,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2a_058",
+    "id": "a2a-058",
     "name": "Bronzor",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Ram",
@@ -1404,17 +1518,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_059",
+    "id": "a2a-059",
     "name": "Bronzong",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Psychic",
@@ -1429,17 +1545,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Bronzor",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_060",
-    "name": "Dialga",
+    "id": "a2a-060",
+    "name": "Origin Forme Dialga",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Time Mash",
@@ -1454,17 +1572,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_061",
+    "id": "a2a-061",
     "name": "Giratina",
     "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Crisis Dive",
@@ -1479,17 +1599,19 @@
     ],
     "retreatCost": 3,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_062",
+    "id": "a2a-062",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Tail Whap",
@@ -1502,17 +1624,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_063",
+    "id": "a2a-063",
     "name": "Snorlax",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Collapse",
@@ -1528,17 +1652,19 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_064",
+    "id": "a2a-064",
     "name": "Hoothoot",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Peck",
@@ -1550,17 +1676,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_065",
+    "id": "a2a-065",
     "name": "Noctowl",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Silent Wing",
@@ -1574,17 +1702,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Hoothoot",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_066",
+    "id": "a2a-066",
     "name": "Starly",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Glide",
@@ -1596,17 +1726,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
-    "id": "a2a_067",
+    "id": "a2a-067",
     "name": "Staravia",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Wing Attack",
@@ -1618,17 +1750,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Starly",
+    "rarity": "Common"
   },
   {
-    "id": "a2a_068",
+    "id": "a2a-068",
     "name": "Staraptor",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Brave Bird",
@@ -1643,17 +1777,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_069",
+    "id": "a2a-069",
     "name": "Shaymin",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Flap",
@@ -1671,17 +1807,19 @@
         "name": "Sky Support",
         "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_070",
+    "id": "a2a-070",
     "name": "Arceus",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Power Blast",
@@ -1697,17 +1835,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
-    "id": "a2a_071",
+    "id": "a2a-071",
     "name": "Arceus ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -1727,73 +1867,83 @@
         "name": "Fabled Luster",
         "effect": "This Pokémon can't be affected by any Special Conditions."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
-    "id": "a2a_072",
+    "id": "a2a-072",
     "name": "Irida",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_073",
+    "id": "a2a-073",
     "name": "Celestic Town Elder",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_074",
+    "id": "a2a-074",
     "name": "Barry",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_075",
+    "id": "a2a-075",
     "name": "Adaman",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
-    "id": "a2a_076",
+    "id": "a2a-076",
     "name": "Houndoom",
     "element": "Fire",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Corner",
@@ -1807,17 +1957,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Full Art"
   },
   {
-    "id": "a2a_077",
+    "id": "a2a-077",
     "name": "Marill",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Water Gun",
@@ -1829,17 +1981,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2a_078",
+    "id": "a2a-078",
     "name": "Unown",
     "element": "Psychic",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Hidden Power",
@@ -1856,17 +2010,19 @@
         "name": "CHECK",
         "effect": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2a_079",
+    "id": "a2a-079",
     "name": "Sudowoodo",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Fighting Headbutt",
@@ -1879,17 +2035,19 @@
     ],
     "retreatCost": 2,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2a_080",
+    "id": "a2a-080",
     "name": "Magnemite",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Tackle",
@@ -1901,17 +2059,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2a_081",
+    "id": "a2a-081",
     "name": "Shaymin",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Flap",
@@ -1929,17 +2089,19 @@
         "name": "Sky Support",
         "effect": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
-    "id": "a2a_082",
+    "id": "a2a-082",
     "name": "Leafeon ex",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -1956,19 +2118,21 @@
     "abilities": [
       {
         "name": "Forest Breath",
-        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a Grass Energy from your Energy Zone and attach it to 1 of your Grass Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_083",
+    "id": "a2a-083",
     "name": "Glaceon ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Freezing Wind",
@@ -1987,17 +2151,19 @@
         "name": "Snowy Terrain",
         "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_084",
+    "id": "a2a-084",
     "name": "Garchomp ex",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -2019,17 +2185,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_085",
+    "id": "a2a-085",
     "name": "Probopass ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -2044,17 +2212,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_086",
+    "id": "a2a-086",
     "name": "Arceus ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2074,73 +2244,83 @@
         "name": "Fabled Luster",
         "effect": "This Pokémon can't be affected by any Special Conditions."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_087",
+    "id": "a2a-087",
     "name": "Irida",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_088",
+    "id": "a2a-088",
     "name": "Celestic Town Elder",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_089",
+    "id": "a2a-089",
     "name": "Barry",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_090",
+    "id": "a2a-090",
     "name": "Adaman",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_091",
+    "id": "a2a-091",
     "name": "Leafeon ex",
     "element": "Grass",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -2157,19 +2337,21 @@
     "abilities": [
       {
         "name": "Forest Breath",
-        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may take a Grass Energy from your Energy Zone and attach it to 1 of your Grass Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_092",
+    "id": "a2a-092",
     "name": "Glaceon ex",
     "element": "Water",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Freezing Wind",
@@ -2188,17 +2370,19 @@
         "name": "Snowy Terrain",
         "effect": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_093",
+    "id": "a2a-093",
     "name": "Garchomp ex",
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Linear Attack",
@@ -2220,17 +2404,19 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_094",
+    "id": "a2a-094",
     "name": "Probopass ex",
     "element": "Metal",
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 160,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Defensive Unit",
@@ -2245,17 +2431,19 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Full Art EX/Support"
   },
   {
-    "id": "a2a_095",
+    "id": "a2a-095",
     "name": "Arceus ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2275,17 +2463,19 @@
         "name": "Fabled Luster",
         "effect": "This Pokémon can't be affected by any Special Conditions."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
   },
   {
-    "id": "a2a_096",
+    "id": "a2a-096",
     "name": "Arceus ex",
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Triumphant light (A2a)",
-    "pack": "Triumphant light",
+    "set": "Triumphant Light (A2a)",
+    "pack": "Arceus",
     "attacks": [
       {
         "name": "Ultimate Force",
@@ -2305,6 +2495,8 @@
         "name": "Fabled Luster",
         "effect": "This Pokémon can't be affected by any Special Conditions."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
   }
 ]
